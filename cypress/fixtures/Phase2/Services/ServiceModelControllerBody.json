@@ -1,0 +1,10 @@
+{
+    "engineOil": "Oil",
+    "id": 0,
+    "vehicleModelId": 135,
+    "washLabourAmount": 50,
+    "washLabourAmount2": 15,
+    "washLabourTax": 1,
+    "washLabourTax2": 2,
+    "engineOilUpdate": "Oil2"
+  }

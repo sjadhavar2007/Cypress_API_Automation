@@ -1,0 +1,10 @@
+{
+    "Content_Type": "application/json",
+    "chargingTypeId": 646,
+    "description": "General",
+    "id": 0,
+    "jobTypeId": 527,
+    "labourPayment": true,
+    "moduleId": 645,
+    "partPayment": true
+  }

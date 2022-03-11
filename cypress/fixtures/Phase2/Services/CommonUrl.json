@@ -1,0 +1,7 @@
+{
+    "baseUrl_LinkPartController": "https://dmsqa.simbiotiktech.com/api/dms/services/v1/link-part/",
+    "URL_CampaignMaintenanceController": "https://dmsqa.simbiotiktech.com/api/dms/services/v1/campaign-maintenance/",
+    "URL_OpCodeController": "https://dmsqa.simbiotiktech.com/api/dms/services/v1/op-code/",
+
+    "commonUrl": "https://dmsqa.simbiotiktech.com"
+}

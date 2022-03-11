@@ -1,0 +1,11 @@
+{
+    "id": 0,
+    "labourChargeOutAmount": 10,
+    "labourChargeOutIndicatorId": 828,
+    "materialChargeOutAmount": 100,
+    "materialChargeOutIndicatorId": 828,
+    "modelId": 1,
+    "opCodeList": 1,
+    "partsChargeOutAmount": 30,
+    "partsChargeOutIndicatorId": 828
+  }

@@ -1,0 +1,19 @@
+{
+    "active": true,
+    "brand": "LEXUS",
+    "code": "ZRE211R-GEXEKESE",
+    "description": "New Content is arriving Soon!",
+    "effectiveFromDate": "16/08/2021",
+    "effectiveToDate": "16/08/2022",
+    "id": 0,
+    "series": "ALPHARD",
+
+    "activeUpdate": true,
+    "brandUpdate": "LEXUS",
+    "codeUpdate": "ZRE211R-GEXEKESE",
+    "descriptionUpdate": "New Content is arriving Soon!",
+    "effectiveFromDateUpdate": "16/08/2021",
+    "effectiveToDateUpdate": "16/08/2022",
+    "idUpdate": 0,
+    "seriesUpdate": "ALPHARD"
+}

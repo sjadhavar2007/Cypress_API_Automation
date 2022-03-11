@@ -1,0 +1,12 @@
+{
+    "ContentType": "application/json",
+    
+    "endTime": "11:00",
+    "id": 0,
+    "remark": "Shipped",
+    "serviceEndDate": "30/10/2021",
+    "serviceStartDate": "25/10/2021",
+    "startTime": "09:00",
+    "testDriveCar": 1
+  }
+  

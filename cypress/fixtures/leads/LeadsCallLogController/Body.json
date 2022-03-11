@@ -1,0 +1,10 @@
+{
+  "purposeOfCall": "Rent",
+  "callTime": "23/09/2021 10:00 AM",
+  "durationInSec": 100,
+  "id": 0,
+  "notes": "Old",
+
+  "purposeOfCallUpdate": "Sell",
+  "notesUpdate": "New"
+}

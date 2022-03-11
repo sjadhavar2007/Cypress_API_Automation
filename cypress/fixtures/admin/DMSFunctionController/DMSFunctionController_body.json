@@ -1,0 +1,13 @@
+{
+    "active": true,
+    "description": "DMS Part Order",
+    "id": 0,
+    "moduleId": 5,
+    "name": "Unique",
+
+    "activeUpdate": true,
+    "descriptionUpdate": "DMS Part OrderUpdate",
+    "idUpdate": 0,
+    "moduleIdUpdate": 5
+    
+  }

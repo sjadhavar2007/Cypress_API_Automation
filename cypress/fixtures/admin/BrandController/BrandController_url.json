@@ -1,0 +1,4 @@
+{
+    "URL_BrandController_dev" : "https://dmsdev.simbiotiktech.com/api/dms/admin/v1/brands",
+    "URL_BrandController_uat":"https://dmsqa.simbiotiktech.com/api/dms/admin/v1/brands"
+}

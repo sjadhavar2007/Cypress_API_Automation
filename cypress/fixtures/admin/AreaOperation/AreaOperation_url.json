@@ -1,0 +1,5 @@
+{
+    "URL_AreaOperation_dev": "https://dmsdev.simbiotiktech.com/api/dms/admin/v1/",
+    "URL_AreaOperation_uat": "https://dmsuat.simbiotiktech.com/api/dms/admin/v1/",
+    "URL_AreaOperation_qa": "https://dmsqa.simbiotiktech.com/api/dms/admin/v1/"
+}

@@ -1,0 +1,15 @@
+{
+    "active": true,
+    "branchCode": "string",
+    "dateOfJoining": "16/08/2021",
+    "dateOfLeaving": "16/08/2021",
+    "email": "mnop@gmail.com",
+    "fullName": "mnop",
+    "groupCode": "qa",
+    "id": 0,
+    "jobTitle": "Tester",
+    "name": "",
+    "password": "mnop@123",
+    "superiorId": "",
+    "type": "New"
+  }

@@ -1,0 +1,10 @@
+{
+    "active": true,
+    "autoAssign": true,
+    "description": "RoleController",
+    "group": "DMS",
+    "id": 0,
+    "model": "New",
+    "name": "Toyota",
+    "publicAssign": true
+}

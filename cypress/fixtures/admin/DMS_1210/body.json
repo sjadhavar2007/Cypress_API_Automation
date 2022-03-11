@@ -1,0 +1,12 @@
+{
+    "ContentType": "application/json",
+    "emailBcc": "dmspm@ymail.com",
+    "emailCc": "dmsqa@ymail.com",
+    "emailContent": "Testing Email",
+    "emailSubject": "Testing",
+    "emailTo": "abdul@ymail.com",
+    "id": 0,
+    "name": "abdul",
+    "workflow": 1
+  }
+  

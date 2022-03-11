@@ -1,0 +1,19 @@
+{
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "reportDir": "cypress/report/mochawesome-report/Phase2_S1",
+        "overwrite": true,
+        "html": true,
+        "json": false,
+        "timestamp": "mmddyyyy_HHMMss"
+    },
+
+    "env": {
+        "db": {
+            "host": "12.0.1.5:1433",
+      "user": "sa",
+      "password": "K8HL-6?6*YfS",
+      "database": "db_name"
+        }
+    }
+}

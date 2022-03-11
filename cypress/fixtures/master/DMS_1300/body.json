@@ -1,0 +1,15 @@
+{
+    "ContentType": "application/json",
+    "description": "Toyota",
+    "moduleId": 1,
+    "outletId": 1,
+    "promoCode": "NEW",
+    "promoTypeId": 1,
+    "accessoryId": 1,
+    "active": true,
+    "colorId": 1,
+    "effectiveFromDate": "18/10/2021",
+    "effectiveToDate": "18/10/2021",
+    "id": 0,
+    "vehicleModelId": 1
+}

@@ -1,0 +1,64 @@
+
+{
+  "active": true,
+  "appNotification": true,
+  "approvalComments": "Yes",
+  "approvedBy": "QA",
+  "chargeTo": "New",
+  "days": "Tuesday",
+  "description": "Yes",
+  "emailNotification": true,
+  "expiryDateTime": "15/08/2021 11:45 AM",
+  "id": 0,
+  "messageInChinese": "AA",
+  "messageInEnglish": "BB",
+  "messageInMal": "CC",
+  "pushNotification": true,
+  "repeatInterval": 0,
+  "roles": [
+    1
+  ],
+  "scheduleType": "string",
+  "scheduled": true,
+  "smsNotification": true,
+  "startDateTime": "15/08/2021 11:45 AM",
+  "status": "string",
+  "targetModule": "string",
+  "targetSystem": "string",
+  "title": "Sammy",
+
+  "activeUpdate": true,
+  "appNotificationUpdate": true,
+  "approvalCommentsUpdate": "Yes",
+  "approvedByUpdate": "TEAM",
+  "chargeToUpdate": "New",
+  "daysUpdate": "Tuesday",
+  "descriptionUpdate": "Yes",
+  "emailNotificationUpdate": true,
+  "expiryDateTimeUpdate": "15/08/2021 11:45 AM",
+  "idUpdate": 0,
+  "messageInChineseUpdate": "Chinese",
+  "messageInEnglishUpdate": "English",
+  "messageInMalUpdate": "Mal",
+  "pushNotificationUpdate": true,
+  "repeatIntervalUpdate": 0,
+  "rolesUpdate": [
+    1
+  ],
+  "scheduleTypeUpdate": "string",
+  "scheduledUpdate": true,
+  "smsNotificationUpdate": true,
+  "startDateTimeUpdate": "15/08/2021 11:45 AM",
+  "statusUpdate": "string",
+  "targetModuleUpdate": "string",
+  "targetSystemUpdate": "string",
+  "titleUpdate": "Abdul",
+
+  
+  "navigationPage": "Current",
+  "vehichleNumber": "MH44U1334",
+  "vehicleName": "Toyota",
+  "workflow": "Transport"
+
+  
+}

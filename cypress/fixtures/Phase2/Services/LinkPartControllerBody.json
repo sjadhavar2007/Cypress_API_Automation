@@ -1,0 +1,14 @@
+
+{
+    "ContentType": "application/json",
+    "id": 0,
+    "lotNumber": "ER785AT",
+    "modelId": 5,
+    "opCodeId": 3,
+    "opFranId": 531,
+    "partFranchiseId": 537,
+    "partId": 2,
+    "productionFrom": "2021-12-07",
+    "productionTo": "2021-12-07"
+  }
+  

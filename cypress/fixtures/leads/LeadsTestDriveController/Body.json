@@ -1,0 +1,19 @@
+{
+    "availableSlots": "abc",
+    "date": "Monday",
+    "dateTime": "09/09/2021 10:40 AM",
+    "id": 0,
+    "model": 0,
+    "name": "string",
+    "notes": "Test Drive",
+    "variant": 0,
+
+    "availableSlotsUpdate": "xyz",
+    "dateUpdate": "Sunday",
+    "dateTimeUpdate": "09/09/2021 10:40 AM",
+    "idUpdate": 0,
+    "modelUpdate": 0,
+    "nameUpdate": "MAchi",
+    "notesUpdate": "Test Drive",
+    "variantUpdate": 0
+  }

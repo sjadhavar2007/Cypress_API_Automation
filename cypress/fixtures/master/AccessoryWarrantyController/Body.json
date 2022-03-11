@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "brand": "TATA",
+  "code": "Inbond",
+  "description": "verify",
+  "effectiveFrom": "21/09/2021",
+  "effectiveTo": "21/09/2021",
+  "effectiveUnlimited": true,
+  "hybridIndicator": true,
+  "series": "Good",
+
+  "activeUpdate": true,
+  "brandUpdate": "Toyota",
+  "codeUpdate": "OUTBOND",
+  "descriptionUpdate": "DONE",
+  "effectiveFromUpdate": "21/09/2021",
+  "effectiveToUpdate": "21/09/2021",
+  "effectiveUnlimitedUpdate": true,
+  "hybridIndicatorUpdate": true,
+  "seriesUpdate": "Average",
+
+  "accyCode": "ABC",
+  "months": 12,
+  "monthsNew": 24,
+  "warrantyType": 1,
+
+  "accyCodeUpdate": "DMS",
+  "monthsUpdate": 24,
+  "monthsNewUpdate": 48,
+  "warrantyTypeUpdate": 2
+}

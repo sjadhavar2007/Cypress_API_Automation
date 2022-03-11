@@ -1,0 +1,9 @@
+{
+    "mobileToken": "DMS",
+    "name": "testuser",
+    "password": "testuser123",
+
+    
+    "nameInvalid": "testuser11",
+    "passwordInvalid": "testuser12311"
+  }

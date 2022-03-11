@@ -1,0 +1,13 @@
+{
+    "appointmentStatus": "string",
+    "dateTime": "",
+    "endDateTime": "09/09/2021 03:00 PM",
+    "id": 0,
+    "location": "London",
+    "notes": "Customer need to upgrade some docs",
+    "startDateTime": "09/09/2021 02:00 AM",
+    "topMarkManager": 0,
+    "topMarkManagerContact": "string",
+    "topMarkOutlet": "string",
+    "typeOfAppointment": "string"
+  }

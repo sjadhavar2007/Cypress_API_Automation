@@ -1,0 +1,22 @@
+{
+    "breakEnd1": "02:30 PM",
+    "breakEnd2": "04:30 PM",
+    "breakEnd3": "07:30 PM",
+    "breakStart1": "02:00 PM",
+    "breakStart2": "04:00 PM",
+    "breakStart3": "07:00 PM",
+    "endTime": "09:00 PM",
+    "friday": true,
+    "monday": true,
+    "operationHourDate": "",
+    "operationHourType": "",
+    "saturday": true,
+    "scheduleFor": "all",
+    "startTime": "09:00 AM",
+    "sunday": true,
+    "thursday": true,
+    "tuesday": true,
+    "wednesday": true,
+
+    "scheduleForUpdate": "NEW"
+  }

@@ -1,0 +1,11 @@
+{
+    "dieselServiceDuration": 1,
+    "dieselServiceInterval": 1,
+    "displayFlag": true,
+    "id": 0,
+    "mileage": "Automation",
+    "modelId": 1,
+    "petrolServiceDuration": 1,
+    "petrolServiceInterval": 1,
+    "siCodeListId": 1
+  }    

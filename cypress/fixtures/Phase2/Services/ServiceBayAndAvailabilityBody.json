@@ -1,0 +1,13 @@
+{
+    "bayName": "AutomationTest",
+    "bayNo": "1",
+    "baySuspendedFrom": "2021-12-31",
+    "baySuspendedTo": "2021-12-31",
+    "bayTypeId": 540,
+    "emFlag": 1,
+    "id": 0,
+    "insertBefore": 1,
+    "sequenceNo": 1,
+    "subletWorkerListId": 1,
+    "techniciansListId": 2
+  }

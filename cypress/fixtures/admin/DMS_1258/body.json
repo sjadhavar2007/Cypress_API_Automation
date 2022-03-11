@@ -1,0 +1,18 @@
+{
+    "active": true,
+    "contact": "added",
+    "dateOfJoining": "05/10/2021",
+    "dateOfLeaving": "05/10/2021",
+    "email": "abcd@gmail.com",
+    "fullName": "abcd",
+    "id": 0,
+    "jobTitle": "QA Engineer",
+    "password": "test@123",
+    "preferedLanguage": "English",
+    "type": "NEW",
+    "userName": "unique",
+
+
+    "groupId": "2",
+    "orgId": 1
+}

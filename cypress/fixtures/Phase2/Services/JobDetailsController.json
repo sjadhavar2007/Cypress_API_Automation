@@ -1,0 +1,20 @@
+{
+    "classDisc": 18.5,
+    "customerPay": true,
+    "description": "Job Details_Test2",
+    "flatRate": 1.2,
+    "id": 0,
+    "jobTypeId": 815,
+    "labour": 98.50,
+    "labourTax":6.5 ,
+    "packageDisc": 10.00,
+    "parentId": 1,
+    "parentType": "CHECK_IN",
+    "part": 9.2,
+    "partTax": 9.5,
+    "prepaidDisc": 14.2,
+    "promoDisc": 9.2,
+    "rate": 4500,
+    "sublet": "IN",
+    "total": 115000
+  }

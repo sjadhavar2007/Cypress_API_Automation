@@ -1,0 +1,21 @@
+
+{
+    "active": true,
+    "description": "Tsting Team",
+    "id": 0,
+    "name": "Unique",
+
+    "orgId": 1,
+
+    "contact": "added",
+    "dateOfJoining": "05/10/2021",
+    "dateOfLeaving": "05/10/2021",
+    "email": "abcd@gmail.com",
+    "fullName": "abcd",
+    "jobTitle": "QA Engineer",
+    "password": "test@123",
+    "preferedLanguage": "English",
+    "type": "NEW",
+    "userName": "QA Team"
+
+  }

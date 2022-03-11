@@ -1,0 +1,17 @@
+{
+    "active": true,
+    "code": "DMS",
+    "colourFor": "Black",
+    "description": "Cars",
+    "id": 0,
+    "metallicIndicator": "Required",
+
+    "activeUpdate": true,
+    "codeUpdate": "Toyota",
+    "colourForUpdate": "White",
+    "descriptionUpdate": "Cars2",
+    "idUpdate": 0,
+    "metallicIndicatorUpdate": "YES"
+
+}
+    

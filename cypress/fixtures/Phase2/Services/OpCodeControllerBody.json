@@ -1,0 +1,15 @@
+{
+    "active": true,
+    "blockPart": true,
+    "categoryId": 532,
+    "checkLinkParts": true,
+    "code": "unique",
+    "codeClass": 1,
+    "codeGroup": 1,
+    "description": "New Description",
+    "firOpCodeExclusion": true,
+    "franId": 531,
+    "id": 0,
+    "maintenanceTypeId": 248,
+    "opTypeId": 242
+  }

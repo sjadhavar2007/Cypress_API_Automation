@@ -1,0 +1,15 @@
+{
+    "active": true,
+    "brandUnitId": 0,
+    "brandUnitName": "Toyotaa",
+    "effectiveFrom": "19/08/2021",
+    "effectiveTo": "19/08/2022",
+    "id": 0,
+
+    "activeUpdate": true,
+    "brandUnitIdUpdate": 0,
+    "brandUnitNameUpdate": "Lexus",
+    "effectiveFromUpdate": "11/12/2000",
+    "effectiveToUpdate": "17/12/1999",
+    "idUpdate": 0
+}

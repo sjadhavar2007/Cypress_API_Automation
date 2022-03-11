@@ -1,0 +1,4 @@
+{
+    "URL_DigitalContentController": "https://dmsdev.simbiotiktech.com/api/dms/master/v1/digital-contents",
+    "URL_DigitalContentController_qa": "https://dmsqa.simbiotiktech.com/api/dms/master/v1/digital-contents"
+}

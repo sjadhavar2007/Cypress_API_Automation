@@ -1,0 +1,12 @@
+{ 
+    "active": true,
+    "dayOfWeekFrom": "MONDAY",
+    "dayOfWeekTo": "MONDAY",
+    "fromDate": "03/01/2022",
+    "fromTime": "10:00",
+    "id": 0,
+    "leaveTypeId": 547,
+    "technicianId": 1,
+    "toDate": "03/01/2022",
+    "toTime": "11:00"
+}

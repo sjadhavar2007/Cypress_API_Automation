@@ -1,0 +1,12 @@
+{
+    "appointmentStatus": "NEW",
+    "endDateTime": "14/10/2021 03:00 PM",
+    "id": 0,
+    "location": "Pune",
+    "notes": "Testing DMS",
+    "startDateTime": "13/10/2021 10:00 AM",
+    "topMarkManager": 1,
+    "topMarkManagerContact": "9888788866",
+    "topMarkOutlet": "Toyota",
+    "typeOfAppointment": "Appraisal"
+  }

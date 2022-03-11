@@ -1,0 +1,12 @@
+{
+    "ContentType": "application/json",
+    "categoryId": 545,
+    "description": "It's a description.",
+    "flagId": 2,
+    "fromMonthTime": "2013/09/29T18:46:19",
+    "id": 0,
+    "monthOrDate": "date",
+    "opCodeId": 1,
+    "opFranId": 531,
+    "toMonthTime": "2013/09/29T18:46:19"
+  }

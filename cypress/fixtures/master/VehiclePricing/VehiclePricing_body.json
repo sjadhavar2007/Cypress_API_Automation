@@ -1,0 +1,31 @@
+{
+    "code": "VehiclePricing",
+    "description": "vehiclePriceDetailsModel",
+   
+        "idDetails": 0,
+        "labelDescription": "NewID",
+        "labelId": 437,
+        "locationDescription": "NewLocation",
+        "locationId": 491,
+        "price": 2000,
+   
+    "effectiveDate": "17/08/2021",
+    "id": 0,
+    "make": "Toyota",
+    "series": "SportsCars",
+
+    "codeUpdate": "VehiclePricingUpdate",
+    "descriptionUpdate": "vehiclePriceDetailsModelUpdate",
+   
+        "idDetailsUpdate": 0,
+        "labelDescriptionUpdate": "NewIDUpdate",
+        "labelIdUpdate": 437,
+        "locationDescriptionUpdate": "NewLocationUpdate",
+        "locationIdUpdate": 491,
+        "priceUpdate": 2000,
+   
+    "effectiveDateUpdate": "17/08/2021",
+    "idUpdate": 0,
+    "makeUpdate": "ToyotaUpdate",
+    "seriesUpdate": "SportsCarsUpdate"
+  }

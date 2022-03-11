@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "brand": "Toyota",
+  "code": "VIOS",
+  "description": "Model",
+  "effectiveFromDate": "10/09/2021",
+  "effectiveToDate": "10/09/2021",
+  "effectiveUnlimited": true,
+  "hybridIndicator": true,
+  "series": "VIOS-09OIPO",
+
+  
+  "brandUpdate": "ToyotaNEW",
+  "codeUpdate": "VIOSNEW",
+  "descriptionUpdate": "NewModel",
+  "effectiveFromDateUpdate": "15/09/2021",
+  "effectiveToDateUpdate": "15/09/2021",
+  "seriesUpdate": "VIOS07",
+
+  "mileage": 25000,
+  "months": 18,
+  "provisionAmount": 100000,
+  "warrantyTypeId": 1
+
+}

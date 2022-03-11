@@ -1,0 +1,15 @@
+    {
+        "Content_Type": "application/json",
+        "appointmentStatus": "New",
+        "endDateTime": "15/12/2021 10:00 AM",
+        "id": 0,
+        "location": "Kolkata",
+        "notes": "Automation Testing",
+        "startDateTime": "20/12/2021 10:00 AM",
+        "status": "Open",
+        "topMarkManagerContact": "9988774455",
+        "topMarkManagerId": 1,
+        "topMarkOutletId": 1,
+        "typeOfAppointment": "Test Drive"
+    }
+      

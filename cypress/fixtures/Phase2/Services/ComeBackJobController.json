@@ -1,0 +1,8 @@
+{
+    "comeBackJob": true,
+    "comeBackJobName": "ComeBackJob_Test3",
+    "daysSinceLastService": 14,
+    "excludeJobTypeId": 800,
+    "id": 0,
+    "mileageCheck": true
+  }

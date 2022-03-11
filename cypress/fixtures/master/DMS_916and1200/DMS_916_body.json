@@ -1,0 +1,29 @@
+{
+    "brandId": 2,
+    "description": "test Description 1",
+    
+    "detailsid": 0,
+    "detailslocationId":42,
+    "detailsprice": 10000,
+    "detailssetupId": 99,
+
+    "effectiveDate": "06/10/2021",
+    "id": 0,
+    "modelId": 4,
+    "seriesId": 49,
+    "status": "string",
+
+    "brandIdUpdate": 2,
+    "descriptionUpdate": "test DescriptionUpdate",
+    
+    "detailsidUpdate": 0,
+    "detailslocationIdUpdate":42,
+    "detailspriceUpdate": 10000,
+    "detailssetupIdUpdate": 99,
+
+    "effectiveDateUpdate": "06/10/2021",
+    "idUpdate": 0,
+    "modelIdUpdate": 4,
+    "seriesIdUpdate": 49,
+    "statusUpdate": "NEW"
+}

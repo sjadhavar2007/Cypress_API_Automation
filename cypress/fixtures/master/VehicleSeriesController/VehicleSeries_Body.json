@@ -1,0 +1,12 @@
+{
+    "active": true,
+    "brand": "Toyota",
+    "code": "VIOS",
+    "description": "New Description",
+
+    
+    "activeUpdate": true,
+    "brandUpdate": "Lexus",
+    "codeUpdate": "NBMS-TERYUI",
+    "descriptionUpdate": "Great Description"
+}

@@ -1,0 +1,12 @@
+{
+    "ContentType": "application/json",
+
+
+    "active": false,
+    "businessProcessId": 1,
+    "id": 1,
+    "mandatory": false,
+    "orderNumber": 2,
+    "steps": "Demanding"
+      
+}
